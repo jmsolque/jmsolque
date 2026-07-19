@@ -1,5 +1,3 @@
-## jmsolque <img src="https://flagcdn.com/28x21/cr.png" alt="CR"> 
-
 🎓 **Electrical Engineering student** at the *University of Costa Rica (UCR)*   
 💡 Passionate about **Microelectronics**, **VLSI Design**, and **Analog/Mixed-Signal Circuits**  
 🔧 Focused on silicon design, electronic systems simulation, and hardware prototyping  
@@ -8,23 +6,6 @@
 ---
 
 ## 🛠️ Skills & Tools
-
-<div align="center">
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-003366?style=for-the-badge)
-![PSpice](https://img.shields.io/badge/PSpice-003366?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-## 🧰 Currently Exploring & Specializing
-- Advanced Analog and Mixed-Signal IC Design
-- Physical layout and verification of integrated circuits
-- High-frequency electronic systems simulation
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -60,4 +41,10 @@
 </p>
 
 ---
+
+## 🧰 Currently Exploring & Specializing
+- Advanced Analog and Mixed-Signal IC Design
+- Physical layout and verification of integrated circuits
+- High-frequency electronic systems simulation
+
 
